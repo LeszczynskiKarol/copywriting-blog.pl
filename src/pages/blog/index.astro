@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = (await getCollection('blog'))
+  .filter(post => !post.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+  title="Blog — Wszystkie wpisy o copywritingu"
+  description="Przeglądaj wszystkie artykuły o copywritingu, tworzeniu treści, narzędziach i content marketingu."
+>
+  <div class="container">
+    <header class="post-header">
+      <span class="post-category">Blog</span>
+      <h1>Wszystkie wpisy</h1>
+      <p style="color: var(--color-ink-muted); font-size: var(--text-lg);">
+        {allPosts.length} artykułów o copywritingu, narzędziach i tworzeniu treści
+      </p>
+    </header>
+
+    <div class="posts-grid" style="padding-bottom: var(--space-4xl);">
+      {allPosts.map(post => (
+        <PostCard
+          title={post.data.title}
+          description={post.data.description}
+          slug={post.slug}
+          pubDate={post.data.pubDate}
+          heroImage={post.data.heroImage}
+          category={post.data.category}
+          readingTime={post.data.readingTime}
+        />
+      ))}
+    </div>
+  </div>
+</BaseLayout>

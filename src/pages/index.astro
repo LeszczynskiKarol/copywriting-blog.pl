@@ -1,0 +1,102 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+import { getReadingTime } from '../utils/helpers';
+
+const allPosts = (await getCollection('blog'))
+  .filter(post => !post.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const featuredPost = allPosts[0];
+const recentPosts = allPosts.slice(1, 7);
+---
+
+<BaseLayout title="Copywriting BLOG — Poradnik copywritera">
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container">
+      <span class="hero-label">Poradnik Copywritera</span>
+      <h1>Praktyczna wiedza o&nbsp;copywritingu i&nbsp;tworzeniu treści</h1>
+      <p class="hero-description">
+        Blog o copywritingu, narzędziach do pisania, content marketingu i&nbsp;pracy z&nbsp;tekstem.
+        Porady, recenzje i&nbsp;inspiracje dla twórców treści.
+      </p>
+    </div>
+  </section>
+
+  <div class="container">
+    <!-- Featured Post -->
+    {featuredPost && (
+      <section class="featured-post">
+        {featuredPost.data.heroImage && (
+          <div class="post-card-image">
+            <a href={`/blog/${featuredPost.slug}/`}>
+              <img
+                src={featuredPost.data.heroImage}
+                alt={featuredPost.data.heroImageAlt || ''}
+                width="640"
+                height="400"
+                loading="eager"
+              />
+            </a>
+          </div>
+        )}
+        <div>
+          <div class="post-card-meta">
+            {featuredPost.data.category && (
+              <span class="post-card-category">{featuredPost.data.category}</span>
+            )}
+            <span>·</span>
+            <time datetime={featuredPost.data.pubDate.toISOString()}>
+              {featuredPost.data.pubDate.toLocaleDateString('pl-PL', {
+                year: 'numeric', month: 'long', day: 'numeric'
+              })}
+            </time>
+          </div>
+          <h2 class="post-card-title">
+            <a href={`/blog/${featuredPost.slug}/`}>
+              {featuredPost.data.title}
+            </a>
+          </h2>
+          <p class="post-card-excerpt" style="font-size: var(--text-base);">
+            {featuredPost.data.description}
+          </p>
+          <a href={`/blog/${featuredPost.slug}/`} class="read-more" style="margin-top: var(--space-lg); display: inline-flex;">
+            Czytaj artykuł <span aria-hidden="true">→</span>
+          </a>
+        </div>
+      </section>
+    )}
+
+    <!-- Recent Posts -->
+    <section>
+      <div class="section-header">
+        <span class="section-label">Najnowsze wpisy</span>
+        <h2>Z bloga</h2>
+      </div>
+
+      <div class="posts-grid">
+        {recentPosts.map(post => (
+          <PostCard
+            title={post.data.title}
+            description={post.data.description}
+            slug={post.slug}
+            pubDate={post.data.pubDate}
+            heroImage={post.data.heroImage}
+            category={post.data.category}
+            readingTime={post.data.readingTime}
+          />
+        ))}
+      </div>
+
+      {allPosts.length > 7 && (
+        <div class="text-center mt-2xl mb-2xl">
+          <a href="/blog/" class="read-more" style="font-size: var(--text-base);">
+            Wszystkie wpisy ({allPosts.length}) <span aria-hidden="true">→</span>
+          </a>
+        </div>
+      )}
+    </section>
+  </div>
+</BaseLayout>
