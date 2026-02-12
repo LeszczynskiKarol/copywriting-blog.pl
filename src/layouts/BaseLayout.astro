@@ -9,6 +9,7 @@ interface Props {
   publishedTime?: string;
   modifiedTime?: string;
   canonicalUrl?: string;
+  noindex?: boolean;
 }
 
 const {
@@ -19,6 +20,7 @@ const {
   publishedTime,
   modifiedTime,
   canonicalUrl,
+  noindex = false,
 } = Astro.props;
 
 const siteTitle = 'Copywriting BLOG';
@@ -40,6 +42,7 @@ import '../styles/global.css';
   <meta name="description" content={description} />
   <meta name="author" content="Karol Leszczyński" />
   <link rel="canonical" href={canonical} />
+  {noindex && <meta name="robots" content="noindex, nofollow" />}
 
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -88,6 +91,17 @@ import '../styles/global.css';
   })} />
 </head>
 <body>
+    <!-- Google Tag Manager (noscript) -->
+  <noscript>
+    <iframe
+      src="https://www.googletagmanager.com/ns.html?id=GTM-NJ6S5C9R"
+      height="0"
+      width="0"
+      style="display:none;visibility:hidden"
+    ></iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
   <header class="site-header" id="site-header">
     <div class="header-inner">
       <a href="/" class="site-logo">
