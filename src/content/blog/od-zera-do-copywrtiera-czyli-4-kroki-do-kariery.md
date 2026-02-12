@@ -3,10 +3,10 @@ title: "Od zera do copywrtiera, czyli 4 kroki do kariery"
 description: "**Zastanawiasz się, jak zostać copywriterem? Jakie kroki należy podjąć, by ktoś zapłacił za Twój tekst? Jakim cudem ktoś w młodym wieku może zajmować odpowiedzi..."
 pubDate: 2015-09-18
 readingTime: 3
+heroImage: "/images/blog/kariera-copywritera1.jpg"
 ---
 
 **Zastanawiasz się, jak zostać copywriterem? Jakie kroki należy podjąć, by ktoś zapłacił za Twój tekst? Jakim cudem ktoś w młodym wieku może zajmować odpowiedzialne stanowisko w dużej korporacji i przygotowywać ważne teksty? Poznaj 4 kroki: od zera do copywritera.**
-
 
 ## #1 Szkoła
 

@@ -3,6 +3,7 @@ title: "Jak nie zostać oszukanym copywriterem"
 description: "**Jeżeli jesteś początkowym copywriterem, prawdopodobnie nie pracujesz jeszcze w dużej agencji i musisz dbać o wszystkie aspekty swojej pracy osobiście. Również..."
 pubDate: 2015-10-14
 readingTime: 2
+heroImage: "/images/blog/dokumenty.jpg"
 ---
 
 **Jeżeli jesteś początkowym copywriterem, prawdopodobnie nie pracujesz jeszcze w dużej agencji i musisz dbać o wszystkie aspekty swojej pracy osobiście. Również o pozyskiwanie klientów. I tu pojawia się zagrożenie, bo tak jak niektórzy obawiają się nieuczciwych zleceniobiorców, tak i Ty masz prawo obawiać nieuczciwego zleceniodawcę. Dzięki poniższą wskazówkom być może uda Ci się uniknąć takiej sytuacji.**
@@ -25,12 +26,10 @@ To prawda, że jeżeli masz zostać oszukanym, to mniej lub bardziej sympatyczne
 
 ## Uważaj na:
 
+    - potencjalnych klientów popełniających rażące błędy w e-mailach;
 
+    - anonimowych zleceniodawców;
 
-	- potencjalnych klientów popełniających rażące błędy w e-mailach;
+    - osoby negatywnie nastawione do wszelkich legalnych i bezpiecznych form transakcji;
 
-	- anonimowych zleceniodawców;
-
-	- osoby negatywnie nastawione do wszelkich legalnych i bezpiecznych form transakcji;
-
-	- podejrzanie otwartych, niewymagających i hojnych klientów.
+    - podejrzanie otwartych, niewymagających i hojnych klientów.

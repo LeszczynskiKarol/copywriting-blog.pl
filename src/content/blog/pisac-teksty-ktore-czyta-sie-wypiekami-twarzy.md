@@ -3,6 +3,7 @@ title: "Jak pisać teksty, które czyta się z wypiekami na twarzy"
 description: "**Przygotowanie profesjonalnego tekstu, który skutecznie spełnia swoją rolę, wymaga nie tylko odpowiedniego przygotowania, ale również zastosowania się do wymog..."
 pubDate: 2016-03-16
 readingTime: 3
+heroImage: "/images/blog/Jak-pisać-teksty.jpg"
 ---
 
 **Przygotowanie profesjonalnego tekstu, który skutecznie spełnia swoją rolę, wymaga nie tylko odpowiedniego przygotowania, ale również zastosowania się do wymogów stylistycznych. Nietrudno odnaleźć negatywne przykłady treści, która miałaby o wiele wyższą wartość, gdyby nie szereg nakładających się na siebie błędów i niedociągnięć językowych. Jak ich unikać i sprawić, aby Twój copywriting był na najwyższym poziomie? Tego dowiesz się w niniejszym artykule.**
@@ -33,16 +34,14 @@ Slang? Fachowy żargon? Używaj ich, ale z głową. Mogłem napisać: w uzasadni
 
 ## Podsumowanie
 
+    - używaj czasu teraźniejszego;
 
+    - nawołuj do działania;
 
-	- używaj czasu teraźniejszego;
+    - unikaj nadmiaru czasowników modalnych;
 
-	- nawołuj do działania;
+    - zwracaj się bezpośrednio, na „Ty”;
 
-	- unikaj nadmiaru czasowników modalnych;
+    - pokaż charakter i zrezygnuj z bezokoliczników, miałkiej odmiany;
 
-	- zwracaj się bezpośrednio, na „Ty”;
-
-	- pokaż charakter i zrezygnuj z bezokoliczników, miałkiej odmiany;
-
-	- posługuj się slangiem i żargonem tylko gdy jest to wymagane.
+    - posługuj się slangiem i żargonem tylko gdy jest to wymagane.

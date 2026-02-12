@@ -3,10 +3,10 @@ title: "5 powszechnych błędów copywritera"
 description: "**Copywriting nie należy do najłatwiejszych czynności. Pisanie wartościowych treści do wyzwanie, które wymaga nieustannego samodoskonalenia. Szczególnie, że z r..."
 pubDate: 2015-09-21
 readingTime: 3
+heroImage: "/images/blog/błędy-copywritera.jpg"
 ---
 
 **Copywriting nie należy do najłatwiejszych czynności. Pisanie wartościowych treści do wyzwanie, które wymaga nieustannego samodoskonalenia. Szczególnie, że z roku na rok Internet coraz bardziej dominuje jako podstawowe źródło informacji, a odbiorcy mają swoje określone oczekiwania. Przyjrzyjmy się podstawowym błędom copywriterów, których należy unikać.**
-
 
 ## #1 Niewłaściwe źródła
 

@@ -3,10 +3,10 @@ title: "Ścieżka kariery copywritera"
 description: "**Wiesz już, [jak w 4 krokach stać się copywriterem](https://www.copywriting-blog.pl/od-zera-do-copywrtiera-czyli-4-kroki-do-kariery/). Dorabiasz lub utrzymujes..."
 pubDate: 2015-09-18
 readingTime: 3
+heroImage: "/images/blog/sciezka-kariery-copywritera1-1024x320.jpg"
 ---
 
 **Wiesz już, [jak w 4 krokach stać się copywriterem](https://www.copywriting-blog.pl/od-zera-do-copywrtiera-czyli-4-kroki-do-kariery/). Dorabiasz lub utrzymujesz się ze zleceń, praktykujesz w dużej firmie. Brzmi OK – ale do czasu. Lata lecą, więc warto przejść do kolejnego etapu. Istnieje wiele dróg, które mogą zaprowadzić Cię na szczyt copywritingu – chciałbym Ci pokazać 4 najbardziej podstawowe.**
-
 
 ## 1. Zakładasz własną agencję
 
@@ -26,4 +26,4 @@ Nie każdy copywriter to freelancer. Znakomitym ukoronowaniem długiej ścieżki
 
 **Podsumowując, droga na szczyt wiedzie różnymi ścieżkami. Każda ma swoje wady i zalety, każda może przynieść duże zyski lub zupełnie zawieść oczekiwania. Dlatego praca copywritera nie jest tak łatwa, jak mogłoby się wydawać. Faktem jednak, że stawia nieustanne wyzwania i zmusza do ciągłego samorozwoju.**
 
-** **
+\*\* \*\*

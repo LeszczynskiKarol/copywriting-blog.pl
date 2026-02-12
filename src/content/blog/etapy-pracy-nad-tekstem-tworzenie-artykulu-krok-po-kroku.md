@@ -3,11 +3,10 @@ title: "Etapy pracy nad tekstem. Jak stworzyć artykuł krok po kroku"
 description: "**Praca copywritera tylko pozornie polega na pisaniu tekstu. Owszem, to jedyna droga do osiągnięcia efektu, ale tej czynności muszą towarzyszyć jeszcze inne, kt..."
 pubDate: 2016-01-14
 readingTime: 4
+heroImage: "/images/blog/Diem.jpg"
 ---
 
 **Praca copywritera tylko pozornie polega na pisaniu tekstu. Owszem, to jedyna droga do osiągnięcia efektu, ale tej czynności muszą towarzyszyć jeszcze inne, których znaczenie bywa niesłusznie marginalizowane. Poznaj etapy pracy nad tekstem. Niepoprawne działania po drodze mogą znacznie obniżyć jakość treści!**
-
-
 
 ## #1 Plan pracy
 
@@ -19,7 +18,7 @@ Nigdy nie napiszesz dobrego tekstu, jeżeli nie zgłębisz opisywanej dziedziny 
 
 ## #3 Struktura tekstu
 
-Poświęciłeś już czas na zgromadzenie informacji i zapisanie ich w czytelny dla siebie sposób. Good job! Pora na... nie, nie na pisanie tekstów! Czas określić strukturę tekstu i jego objętość. Często w tym drugim wyręcza nas klient, oczekujący np. 500-znakowego opisu produktu, 2000-znakowego artykułu na portal lub praktycznego poradnika o długości 6000 znaków. To wiele mówi o tym, jak rozplanować tekst. Decydujący jest również temat i liczba argumentów, których musimy użyć. Większość materiałów przygotowywanych przez copywriterów nie różni się w sposób szczególny od szkolnej rozprawki – tu również mamy wstęp, rozwinięcie i zakończenie, a więc wprowadzenie, [opisy produktów](http://www.ecopywriting.pl/uslugi/opisy-produktow.html) lub pewnego zjawiska, metody, zaś na końcu perswazyjne podsumowanie, zachęcające na przykład do zakupu lub wyboru usługi. Dobrą metodą trzymania się planu jest wklejanie części notatek pod przygotowywanym akapitem. Z jednej strony widzimy potrzebne nam informacje i nie musimy co chwilę klikać w inne okienka, a z drugiej unikamy ryzyka nieświadomego plagiatu.
+Poświęciłeś już czas na zgromadzenie informacji i zapisanie ich w czytelny dla siebie sposób. Good job! Pora na... nie, nie na pisanie tekstów! Czas określić strukturę tekstu i jego objętość. Często w tym drugim wyręcza nas klient, oczekujący np. 500-znakowego opisu produktu, 2000-znakowego artykułu na portal lub praktycznego poradnika o długości 6000 znaków. To wiele mówi o tym, jak rozplanować tekst. Decydujący jest również temat i liczba argumentów, których musimy użyć. Większość materiałów przygotowywanych przez copywriterów nie różni się w sposób szczególny od szkolnej rozprawki – tu również mamy wstęp, rozwinięcie i zakończenie, a więc wprowadzenie, opisy produktów lub pewnego zjawiska, metody, zaś na końcu perswazyjne podsumowanie, zachęcające na przykład do zakupu lub wyboru usługi. Dobrą metodą trzymania się planu jest wklejanie części notatek pod przygotowywanym akapitem. Z jednej strony widzimy potrzebne nam informacje i nie musimy co chwilę klikać w inne okienka, a z drugiej unikamy ryzyka nieświadomego plagiatu.
 
 ## #4 Pisanie
 

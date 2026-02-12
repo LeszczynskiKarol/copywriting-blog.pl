@@ -2,6 +2,7 @@
 title: "Jak i gdzie promować treści, teksty i artykuły w Internecie, żeby trafić do odbiorców"
 description: "**Prowadzisz blog? Jesteś właścicielem serwisu internetowego? A może realizujesz kampanię polegającą na budowaniu zaplecza dla konkretnej firmy? Wiesz już, [jak..."
 pubDate: 2017-07-28
+heroImage: "/images/blog/jak-promować-wpisy.jpg"
 readingTime: 5
 ---
 
@@ -9,7 +10,7 @@ readingTime: 5
 
 ## 1. Media społecznościowe
 
-Nie jest tajemnicą, że media społecznościowe zrewolucjonizowały Internet. Dały możliwość wypłynięcia na szeroką wodę milionom niezależnych inicjatyw na całym świecie. Dziś kariery vlogerów czy internetowych ekspertów nie dziwią nikogo. Skąd wziął się ten fenomen? Głównie dzięki aktywności na portalach. Ty również możesz wykorzystać „social” do promowania blogowych wpisów. Obecnie [prowadzenie blogów firmowych](http://www.ecopywriting.pl/uslugi/blogi.html) nierozłącznie wiąże się z mediami społecznościowymi.
+Nie jest tajemnicą, że media społecznościowe zrewolucjonizowały Internet. Dały możliwość wypłynięcia na szeroką wodę milionom niezależnych inicjatyw na całym świecie. Dziś kariery vlogerów czy internetowych ekspertów nie dziwią nikogo. Skąd wziął się ten fenomen? Głównie dzięki aktywności na portalach. Ty również możesz wykorzystać „social” do promowania blogowych wpisów. Obecnie prowadzenie blogów firmowych nierozłącznie wiąże się z mediami społecznościowymi.
 
 Na Facebooku możesz oczywiście założyć fanpage, ale czasem Twoja działalność jest na tyle niszowa lub specjalistyczna, że zwyczajnie nie zgromadzisz wielu obserwujących, co w takim miejscu mija się z celem. Co nie znaczy, że warto porzucić portal założony przez Marka Zuckerberga. Wręcz przeciwnie – na „fejsie” istnieje przecież mnóstwo grup dyskusyjnych zgromadzonych wokół naprawdę wielu tematów, gdzie możesz publikować treści. Dzięki temu zyskujesz grono potencjalnych odbiorców i możliwość błyskawicznego feedbacku poprzez polubienia, komentarze i udostępnienia. Poza tym warto wysyłać swoje artykuły poprzez wiadomości, np. do branżowych ekspertów lub swoich kontrahentów posiadających fanpage.
 
@@ -31,7 +32,7 @@ Z myślą o promocji nowego wpisu nawiąż współpracę z popularnym blogerem b
 
 ## 5. Możliwość udostępnienia tekstu
 
-Nie utrudniaj sprawy swoim czytelnikom i pozwól im podzielić się tekstem natychmiast po jego przeczytaniu. Miej na uwadze, żeby kończąc [pisanie artykułów](http://www.ecopywriting.pl/uslugi/artykuly.html) czy [opisy produktów](http://www.ecopywriting.pl/uslugi/opisy-produktow.html), u ich dołu uwzględnić przyciski służące do udostępnienia treści w mediach społecznościowych i za pośrednictwem poczty email. Jeżeli korzystasz z popularnych platform blogowych, jak Wordpress czy Blogger, z łatwością zrobisz to za pomocą widżetów i wtyczek.
+Nie utrudniaj sprawy swoim czytelnikom i pozwól im podzielić się tekstem natychmiast po jego przeczytaniu. Miej na uwadze, żeby kończąc pisanie artykułów czy opisy produktów, u ich dołu uwzględnić przyciski służące do udostępnienia treści w mediach społecznościowych i za pośrednictwem poczty email. Jeżeli korzystasz z popularnych platform blogowych, jak Wordpress czy Blogger, z łatwością zrobisz to za pomocą widżetów i wtyczek.
 
 ## 6. Fora i grupy tematyczne
 

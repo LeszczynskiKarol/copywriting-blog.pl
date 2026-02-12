@@ -3,6 +3,7 @@ title: "9 elementów komunikatu a copywriting"
 description: "**W badaniach marketingowych przyjęło się, choć nie jest to jedyna teoria, że komunikat składa się z 9 elementów: nadawcy, kodowania, medium, komunikatu, odkodo..."
 pubDate: 2015-10-21
 readingTime: 3
+heroImage: "/images/blog/copywriting.jpg"
 ---
 
 **W badaniach marketingowych przyjęło się, choć nie jest to jedyna teoria, że komunikat składa się z 9 elementów: nadawcy, kodowania, medium, komunikatu, odkodowania, odbiorcy, reakcji, sprzężenia zwrotnego i szumu informacyjnego. Efektem pracy copywritera jest komunikat tekstowy – np. tekst na bloga, jak w tym przypadku. Zbadajmy, na co zwracać uwagę na poszczególnych etapach wysyłania komunikatu.**

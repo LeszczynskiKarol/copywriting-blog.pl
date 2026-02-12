@@ -3,6 +3,7 @@ title: "Jeden dzień z życia copywritera"
 description: "**Chcesz ominąć szerokim łukiem korporacyjne zwyczaje, pracę w określonych godzinach (i nieoczekiwanych nadgodzinach) lub zwyczajnie nie masz w pobliżu firm, w..."
 pubDate: 2015-09-18
 readingTime: 3
+heroImage: "/images/blog/copywriter.jpeg"
 ---
 
 **Chcesz ominąć szerokim łukiem korporacyjne zwyczaje, pracę w określonych godzinach (i nieoczekiwanych nadgodzinach) lub zwyczajnie nie masz w pobliżu firm, w których mógłbyś realizować się jako copywriter? Zostań freelancerem. Jeżeli jednak chcesz zarobić i się rozwijać – nie będzie to praca lekka, łatwa i przyjemna. Zobacz, jak wygląda wzorcowy dzień copywritera-freelancera.**

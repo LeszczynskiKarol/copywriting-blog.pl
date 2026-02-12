@@ -3,10 +3,10 @@ title: "Narzędzia copywritera - czego potrzebujesz do pracy słowem"
 description: "**Jeżeli myślisz, że jedynym narzędziem copywritera jest edytor tekstu i przeglądarka internetowa – mylisz się. Nie oznacza to jednak, że potrzebujesz wielu nar..."
 pubDate: 2015-09-23
 readingTime: 3
+heroImage: "/images/blog/narzędzia-copywritera.jpg"
 ---
 
 **Jeżeli myślisz, że jedynym narzędziem copywritera jest edytor tekstu i przeglądarka internetowa – mylisz się. Nie oznacza to jednak, że potrzebujesz wielu narzędzi. Poznaj kilka przydatnych aplikacji, które pozwolą Ci efektywniej przygotowywać profesjonalne treści.**
-
 
 ## Planowanie pracy
 
@@ -38,14 +38,11 @@ Napisałeś tekst na czas, ozdobiłeś go, nie zapomniałeś zanotować żadnej 
 
 Nie zapomnij sprawdzić:
 
+- interpunkcji (jeżeli nie rozumiesz jej wszystkich zasad – wykorzystaj witrynę [Interpunkcja.com.pl](http://www.interpunkcja.com.pl/));
 
- 	- interpunkcji (jeżeli nie rozumiesz jej wszystkich zasad – wykorzystaj witrynę [Interpunkcja.com.pl](http://www.interpunkcja.com.pl/));
+- czytelności tekstu (odpowiednia czytelność oznacza brak zbyt długich zdań, przeliczana jest na podstawie proporcji słów i zdań – skorzystaj z oceny [hemingwayapp.com](http://www.hemingwayapp.com/))
 
- 	- czytelności tekstu (odpowiednia czytelność oznacza brak zbyt długich zdań, przeliczana jest na podstawie proporcji słów i zdań – skorzystaj z oceny [hemingwayapp.com](http://www.hemingwayapp.com/))
-
- 	- unikalności źródła (warto wiedzieć, czy źródło nie jest kopią i zarazem – czy ktoś nie kradnie Twojej własności intelektualnej. Użyj [copyspace.com](http://www.copyspace.com/))
-
-
+- unikalności źródła (warto wiedzieć, czy źródło nie jest kopią i zarazem – czy ktoś nie kradnie Twojej własności intelektualnej. Użyj [copyspace.com](http://www.copyspace.com/))
 
 **Pamiętaj!**
 

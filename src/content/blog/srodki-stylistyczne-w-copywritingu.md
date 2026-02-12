@@ -3,6 +3,7 @@ title: "Środki stylistyczne w copywritingu"
 description: "**Zapewne wiesz, że copywriter to nie pisarz i nie dziennikarz, więc idąc tym tropem, jego styl powinien odbiegać od prozy, poezji czy dziennikarstwa. W zasadzi..."
 pubDate: 2015-10-12
 readingTime: 2
+heroImage: "/images/blog/copywriting-środki-stylistyczne.jpg"
 ---
 
 **Zapewne wiesz, że copywriter to nie pisarz i nie dziennikarz, więc idąc tym tropem, jego styl powinien odbiegać od prozy, poezji czy dziennikarstwa. W zasadzie... to nie do końca. Jeżeli jestem pytany o to, czy copywriter może pozwolić sobie na bardziej literacki styl, a obok suchych informacji dołożyć środki stylistyczne, odpowiadam...**
@@ -19,14 +20,12 @@ To znów zależy od zlecenia. Jeżeli jesteś o czymś stuprocentowo przekonany,
 
 ## Kiedy NIE używać literackiego języka
 
+    - oficjalna korespondencja
 
+    - zapytania ofertowe
 
-	- oficjalna korespondencja
+    - artykuły informacyjne
 
-	- zapytania ofertowe
+    - próbne teksty dla dużych partnerów biznesowych
 
-	- artykuły informacyjne
-
-	- próbne teksty dla dużych partnerów biznesowych
-
-	- artykuły naukowe
+    - artykuły naukowe

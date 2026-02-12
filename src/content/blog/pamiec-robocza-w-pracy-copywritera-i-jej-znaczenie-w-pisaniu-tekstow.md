@@ -2,6 +2,7 @@
 title: "Pamięć robocza w pracy copywritera i jej znaczenie w pisaniu tekstów"
 description: "Pisanie tekstów to nie tylko umiejętność przekładania myśli na słowa. Praca copywritera to skomplikowany proces kognitywny, który wymaga koordynacji wielu funkc..."
 pubDate: 2023-08-21
+heroImage: "/images/blog/Pamiec-robocza-w-pracy-copywritera-i-jej-znaczenie-w-pisaniu-tekstow-1140x624.jpg"
 readingTime: 3
 ---
 

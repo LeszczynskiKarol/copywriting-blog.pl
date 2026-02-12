@@ -3,6 +3,7 @@ title: "Planowanie pracy copywritera, czyli jak efektywnie zorganizować swój d
 description: "**Dla kogoś, kto nie zajmuje się na co dzień pisaniem, praca copywritera może kojarzyć się z beztroskim tworzeniem treści w każdych możliwych okolicznościach. T..."
 pubDate: 2018-07-09
 readingTime: 6
+heroImage: "/images/blog/pexels-photo-1020323.jpeg"
 ---
 
 **Dla kogoś, kto nie zajmuje się na co dzień pisaniem, praca copywritera może kojarzyć się z beztroskim tworzeniem treści w każdych możliwych okolicznościach. Tymczasem praktycy wiedzą, że aby ten rodzaj działalności był efektywny i przynosił pożądane zyski, trzeba odpowiednio zaplanować dzień, tydzień, miesiąc… Dowiedz się, jak usprawnić proces przygotowania i tworzenia, który jest kluczowy dla powodzenia w usługach copywritingowych.**

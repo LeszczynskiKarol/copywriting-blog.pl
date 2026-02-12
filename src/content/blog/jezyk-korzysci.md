@@ -3,6 +3,7 @@ title: "Język korzyści - czym jest, jak go stosować"
 description: "**Zastanawiałeś się kiedyś, na czym polega fenomen najlepszych sprzedawców? Najłatwiej powiedzieć - „mają gadane”. Tak, mają, ale co mówią, konkretnie? A przekł..."
 pubDate: 2015-12-10
 readingTime: 5
+heroImage: "/images/blog/a.jpeg"
 ---
 
 **Zastanawiałeś się kiedyś, na czym polega fenomen najlepszych sprzedawców? Najłatwiej powiedzieć - „mają gadane”. Tak, mają, ale co mówią, konkretnie? A przekładając na świat internetowy: co piszą? Poznaj język korzyści, dzięki któremu w prosty sposób nauczysz się sprzedawać słowem.**
@@ -57,23 +58,23 @@ Jeżeli chcesz skutecznie sprzedawać produkty i usługi, zacznij używać języ
 
 Jak sama nazwa wskazuje, w języku korzyści najważniejsza jest ekspozycja klientowi pozytywnych stron potencjalnej współpracy. Każdego z nas, jeżeli mamy wydać pieniądze, interesuje konkret. Czym właściwie zaoszczędzimy czas, dlaczego coś jest bezkonkurencyjne, z jakiego powodu nie możemy bez tego żyć? Istotnymi elementami języka korzyści są więc:
 
- 	- 
+-
 
 **Przykłady**, pozwalające zrozumieć wartościowe działanie produktów i usług;
 
- 	- 
+-
 
 **Wskazówki**, dzięki którym klient nadąża za naszym tokiem myślenia, a więc w pełni skupia się na treści, która w ten sposób silniej na niego oddziałuje;
 
- 	- 
+-
 
 **Gradacja** potrzeb i zalet, która – jeśli jest wyrażona wystarczająco pewnie i przekonywująco – potrafi wpłynąć na decyzje konsumpcyjne klienta;
 
- 	- 
+-
 
 „**Przyjemne” przymiotniki** – relaksujące, wprowadzające w błogostan, umilające skomplikowany przecież proces decyzyjny;
 
- 	- 
+-
 
 **Środki stylistyczne**, które uatrakcyjniają standardowy marketingowy przekaz.
 
