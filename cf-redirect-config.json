@@ -1,0 +1,49 @@
+{
+  "CallerReference": "copywriting-blog-pl-redirect-2026",
+  "Aliases": {
+    "Quantity": 1,
+    "Items": ["copywriting-blog.pl"]
+  },
+  "DefaultRootObject": "",
+  "Origins": {
+    "Quantity": 1,
+    "Items": [{
+      "Id": "S3-redirect-copywriting-blog-pl",
+      "DomainName": "copywriting-blog.pl.s3-website.eu-central-1.amazonaws.com",
+      "CustomOriginConfig": {
+        "HTTPPort": 80,
+        "HTTPSPort": 443,
+        "OriginProtocolPolicy": "http-only"
+      }
+    }]
+  },
+  "DefaultCacheBehavior": {
+    "TargetOriginId": "S3-redirect-copywriting-blog-pl",
+    "ViewerProtocolPolicy": "redirect-to-https",
+    "AllowedMethods": {
+      "Quantity": 2,
+      "Items": ["GET", "HEAD"],
+      "CachedMethods": {
+        "Quantity": 2,
+        "Items": ["GET", "HEAD"]
+      }
+    },
+    "Compress": true,
+    "ForwardedValues": {
+      "QueryString": false,
+      "Cookies": { "Forward": "none" }
+    },
+    "MinTTL": 0,
+    "DefaultTTL": 86400,
+    "MaxTTL": 31536000
+  },
+  "ViewerCertificate": {
+    "ACMCertificateArn": "arn:aws:acm:us-east-1:381492300277:certificate/b24b911e-8c66-4acb-b471-cf050b324089",
+    "SSLSupportMethod": "sni-only",
+    "MinimumProtocolVersion": "TLSv1.2_2021"
+  },
+  "Enabled": true,
+  "Comment": "copywriting-blog.pl redirect to www",
+  "PriceClass": "PriceClass_100",
+  "HttpVersion": "http2and3"
+}
