@@ -31,7 +31,7 @@ const recentPosts = allPosts.slice(1, 7);
       <section class="featured-post">
         {featuredPost.data.heroImage && (
           <div class="post-card-image">
-            <a href={`/blog/${featuredPost.slug}/`}>
+            <a href={`/${featuredPost.slug}/`}>
               <img
                 src={featuredPost.data.heroImage}
                 alt={featuredPost.data.heroImageAlt || ''}
@@ -55,14 +55,14 @@ const recentPosts = allPosts.slice(1, 7);
             </time>
           </div>
           <h2 class="post-card-title">
-            <a href={`/blog/${featuredPost.slug}/`}>
+            <a href={`/${featuredPost.slug}/`}>
               {featuredPost.data.title}
             </a>
           </h2>
           <p class="post-card-excerpt" style="font-size: var(--text-base);">
             {featuredPost.data.description}
           </p>
-          <a href={`/blog/${featuredPost.slug}/`} class="read-more" style="margin-top: var(--space-lg); display: inline-flex;">
+          <a href={`/${featuredPost.slug}/`} class="read-more" style="margin-top: var(--space-lg); display: inline-flex;">
             Czytaj artykuł <span aria-hidden="true">→</span>
           </a>
         </div>

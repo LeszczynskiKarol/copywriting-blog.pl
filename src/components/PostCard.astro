@@ -21,7 +21,7 @@ const formattedDate = pubDate.toLocaleDateString('pl-PL', {
 <article class="post-card animate-in">
   {heroImage && (
     <div class="post-card-image">
-      <a href={`/blog/${slug}/`} tabindex="-1" aria-hidden="true">
+      <a href={`/${slug}/`}>{title}
         <img src={heroImage} alt="" width="400" height="250" loading="lazy" decoding="async" />
       </a>
     </div>
@@ -33,11 +33,11 @@ const formattedDate = pubDate.toLocaleDateString('pl-PL', {
       <time datetime={pubDate.toISOString()}>{formattedDate}</time>
     </div>
     <h3 class="post-card-title">
-      <a href={`/blog/${slug}/`}>{title}</a>
+      <a href={`/${slug}/`}>{title}</a>
     </h3>
     <p class="post-card-excerpt">{description}</p>
     <div class="post-card-footer">
-      <a href={`/blog/${slug}/`} class="read-more">
+      <a href={`/${slug}/`} class="read-more">
         Czytaj dalej <span aria-hidden="true">→</span>
       </a>
       {readingTime && <span class="reading-time">{readingTime} min</span>}
